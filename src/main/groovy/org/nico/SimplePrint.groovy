@@ -6,6 +6,6 @@ package org.nico
 class SimplePrint {
 
     public static void main(String[] args) {
-        println "hello simple print"
+        println "hello simple print - v2"
     }
 }
