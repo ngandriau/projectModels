@@ -7,5 +7,6 @@ class SimplePrint {
 
     public static void main(String[] args) {
         println "hello simple print - v2"
+        println "let's try again"
     }
 }
