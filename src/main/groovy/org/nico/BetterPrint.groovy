@@ -6,6 +6,6 @@ package org.nico
 class BetterPrint {
 
     public static void main(String[] args) {
-        println "better print!!!"
+        println "better print!!! V2"
     }
 }
