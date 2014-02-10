@@ -1,4 +1,4 @@
 projectModels
 =============
 
-list of small projects model to use various techno
+small project to experiment gradle and git branching
