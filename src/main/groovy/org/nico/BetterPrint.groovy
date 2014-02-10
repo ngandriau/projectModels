@@ -7,5 +7,6 @@ class BetterPrint {
 
     public static void main(String[] args) {
         println "better print!!! V2"
+        println "try to merge with --no-ff"
     }
 }
