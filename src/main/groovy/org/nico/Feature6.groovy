@@ -7,5 +7,6 @@ class Feature6 {
 
     public static void main(String[] args) {
         println "now f6 does something"
+        println "f6 does everything it must do"
     }
 }
