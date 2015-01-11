@@ -7,8 +7,4 @@ small project to experiment gradle and git branching
 - test what happen when deleting a branch from idea
 
 start working on new feature: 5
-- more work done of f5
-- more work again on f5
-- more more work again on f5
-- start f6
-- end f6
+- work on feature/f123
